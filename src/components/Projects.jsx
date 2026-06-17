@@ -22,7 +22,7 @@ const projectsMeta = [
   {
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
     image: portfolio,
-    github: "https://github.com/agbohouahomahou-cyber/portfolio",
+    github: "https://github.com/agbohouahomahou-cyber/samuel_ahomahou_portfolio",
     demo: null,
   },
 ];
