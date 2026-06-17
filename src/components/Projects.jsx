@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 import { GitBranch, ExternalLink } from "lucide-react";
 import gestion_stock from "../assets/gestion_stock.png";
-import portfolio from "../assets/portfolio.png";
-import connexion from "../assets/connexion.png";
+import portfolio from "../assets/portfolio.PNG";
+import connexion from "../assets/connexion.PNG";
 import { useLanguage } from "../context/LanguageContext";
 
 // Données non-traduisibles (images, liens, technologies) séparées du texte traduit
