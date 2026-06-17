@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+html{
+  scroll-behavior: smooth;
+}
+
+nav a:hover{
+    color: #00d4ff;
+    transition: color 0.3s ease;
+}
+
